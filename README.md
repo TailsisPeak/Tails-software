@@ -1,1 +1,1 @@
-Hi, I make not so legal game downloads
+This is just game preservation, **I do not endorse piracy**
