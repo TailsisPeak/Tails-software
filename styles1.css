@@ -26,11 +26,12 @@
   
    
 
-.hamachi {|
+.Radmin {|
 font-size: 3px; 
     font-weight: bold; 
       display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
+    color: ffffff
 }
