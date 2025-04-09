@@ -86,5 +86,17 @@
       });
     });
   </script>
+<script>
+fetch('https://your-webhook-url.com', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json'
+  },
+  body: JSON.stringify({
+    content: `New visit to: ${window.location.href} at ${new Date().toISOString()}`
+  })
+});
+
+</script>
 </body>
 </html>
